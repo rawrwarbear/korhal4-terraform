@@ -10,4 +10,4 @@ This is the container for running Terraform pipelines for Jenkins. It uses JNLP 
 ```
 
 #####Configure this in Jenkins using the screenshot below:
-![docker](https://i.ibb.co/QpHqTvY/jenkins-gantris6-node.png)
+![docker](https://i.ibb.co/DYnLVPM/jenkins-korhal-terraform.png)
